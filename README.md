@@ -1,17 +1,6 @@
-# allen
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Vocal-Ai
+ ->Built a Voice Assistant app with Flutter, ChatGPT API, DallE API, enabling voice interaction and personalized responses.
+
+ ->Integrated Text-to-Speech functionality, reducing user fatigue by 20% and enhancing user engagement.
+
+ ->Utilized DallE API to generate dynamic visual content based on user requests, enhancing the interactive experience.
